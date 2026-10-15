@@ -20,22 +20,22 @@ Lors de la première sortie, le jeu ne possédait que 11 personnages et 4 cartes
 |	11 	Raze 	|Abyss 	|
 |	12 	Breach	|Corrode |	
 |	13 	Skye	|Summit|
-| 14 	Yoru   | 
-|15 	Astra 	 |				
-|16 	KAY/O 	|				
-|17 	Chamber| 				
-|18 	Neon|
-|19 	Fade |
-|20 	Harbor |
-|21 	Gekko |
-|22 	Deadlock| 
-|23 	Iso |
-|24 	Clove| 	
-|25 	Vyse| 
-|26 Tejo |
-|27 	Waylay| 
-|28 	Veto|
-|29 	Miks| 
+| 14 	Yoru   | |
+|15 	Astra 	 ||				
+|16 	KAY/O 	|	|		
+|17 	Chamber| 	|			
+|18 	Neon||
+|19 	Fade ||
+|20 	Harbor ||
+|21 	Gekko ||
+|22 	Deadlock|| 
+|23 	Iso ||
+|24 	Clove|| 	
+|25 	Vyse| |
+|26 Tejo ||
+|27 	Waylay|| 
+|28 	Veto||
+|29 	Miks| |
 Le projet avait été annoncé sous le nom de « Projet A » en octobre 2019. Et comme tous les jeux principaux de Riot Games, celui-ci possède plusieurs modes de jeu, mais les deux plus importants sont l'unranked et la ranked. 
 Les rangs possibles sont d'ailleurs, dans l'ordre croissant : 
 * fer 
