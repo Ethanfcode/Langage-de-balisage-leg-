@@ -64,7 +64,7 @@ Ces individus sont classés selon leurs aptitudes
 Ce protocole apparait à la suite d'une découverte sans précédente , un univers parallèle apparait a la suite d'un sabotage d'une experience scientifique. Cet univers **Omega** et en tout point similaire à celui de l'univers **Alpha** il possède un lui aussi des individue ayant des super-pouvoir mais seulement l'univers **omega**  est plus avancés au niveau de sa technologie en utilisant massivement la radianite comme source d'énergie ce qui cause son manque, donc ils ont  trouvé un moyen d 'extraire de la radianite via une bombe appelé *spike* ,ils se rendent donc  sur la Terre Alpha pour planter le spike et ainsi récolter la radianite (c'est du raket clairement)  
 ## Esport 
 
->>> Valorant est également un jeu compétitif avec une scène E-sport dévellopée depuis la sortie du jeu.
+ Valorant est également un jeu compétitif avec une scène E-sport dévellopée depuis la sortie du jeu.
     La scène est séparée en 4 région distincte : America, EMEA, Pacific et China. 
     En 2027, des changement majeur sont apporté au circuit professionel:
     
@@ -72,20 +72,20 @@ Ce protocole apparait à la suite d'une découverte sans précédente , un unive
     * l'ajout d'un Kick-Off où 12 équipe dont 8 équipe partenaires et 4 provenant des Open-Qualifier vont s'affronter dans leur VCT selon leur region 
     * le remplacement des stage qui sont les saison regulières par des Cups plus courte et plus intense avec plus d'enjeux 
     
->>> Après l'étape du Kick-Off il y a les Masters, c'est une compétition international qui réuni les meilleurs équipes des Kick-Off.
+ Après l'étape du Kick-Off il y a les Masters, c'est une compétition international qui réuni les meilleurs équipes des Kick-Off.
     Ensuite il y a les Cups qui est l'étape au dessus des Masters (il y a 2 Cups et 2 Masters oragniser par Riot dans l'année). 
     Enfin nous avons les Champions qui vont déterminer la meilleur équipe du monde.
 
 ![Circuit_E-sport_Valorant](https://pub-aadef8fdc55f44388929f1cafa8d7293.r2.dev/articles/content/images/-1781882408-912ea6cd.VCT_2027_Format.png)
 
-###les VCT Game Changers
+### les VCT Game Changers
 >>> Cette ligue est une ligue réservé aux femme qui ont souvent du mal a évolué aux sein de la ligue classique à cause des remarques sexiste.
     Elle possède ses propre règle, son propre système de qualification et ses propre Champions
     
 ### Les club Valorant 
 
-> Un certain nombre de team E-sport se sont installé sur Valorant depuis qu'il est sorti en 2021
-    #### les teams les plus légendaire:
+Un certain nombre de team E-sport se sont installé sur Valorant depuis qu'il est sorti en 2021
+     les teams les plus légendaire:
         - PaperRex : style de jeu très agressif et ont jouer contre la meta lors de grosse compétition
         - Sentinels : première team nommé champion du monde lors des Master de Reyjavik en 2021 
         - Fnatic : seul équipe a avoir réussi à triompher de 2 VCT d'affilé 
