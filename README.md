@@ -68,9 +68,9 @@ Ce protocole apparait à la suite d'une découverte sans précédente , un unive
     La scène est séparée en 4 région distincte : America, EMEA, Pacific et China. 
     En 2027, des changement majeur sont apporté au circuit professionel:
     
-    * l'ajout d'Open Qualifiers qui vont démarrer en novembre dans toute les régions 
-    * l'ajout d'un Kick-Off où 12 équipe dont 8 équipe partenaires et 4 provenant des Open-Qualifier vont s'affronter dans leur VCT selon leur region 
-    * le remplacement des stage qui sont les saison regulières par des Cups plus courte et plus intense avec plus d'enjeux 
+   * l'ajout d'Open Qualifiers qui vont démarrer en novembre dans toute les régions 
+   * l'ajout d'un Kick-Off où 12 équipe dont 8 équipe partenaires et 4 provenant des Open-Qualifier vont s'affronter dans leur VCT selon leur region 
+   * le remplacement des stage qui sont les saison regulières par des Cups plus courte et plus intense avec plus d'enjeux 
     
  Après l'étape du Kick-Off il y a les Masters, c'est une compétition international qui réuni les meilleurs équipes des Kick-Off.
     Ensuite il y a les Cups qui est l'étape au dessus des Masters (il y a 2 Cups et 2 Masters oragniser par Riot dans l'année). 
@@ -86,9 +86,9 @@ Ce protocole apparait à la suite d'une découverte sans précédente , un unive
 
 Un certain nombre de team E-sport se sont installé sur Valorant depuis qu'il est sorti en 2021
      les teams les plus légendaire:
-        - PaperRex : style de jeu très agressif et ont jouer contre la meta lors de grosse compétition
-        - Sentinels : première team nommé champion du monde lors des Master de Reyjavik en 2021 
-        - Fnatic : seul équipe a avoir réussi à triompher de 2 VCT d'affilé 
-        - LOUD : équipe sorti d'Amérique du Sud qui ont réussi a battre les plus grosse team  
-        - 100Thieves : triomphe à l'Esport World Cup à Paris en 2026
+        1. PaperRex : style de jeu très agressif et ont jouer contre la meta lors de grosse compétition
+        2. Sentinels : première team nommé champion du monde lors des Master de Reyjavik en 2021 
+        3. Fnatic : seul équipe a avoir réussi à triompher de 2 VCT d'affilé 
+        4. LOUD : équipe sorti d'Amérique du Sud qui ont réussi a battre les plus grosse team  
+        5. 100Thieves : triomphe à l'Esport World Cup à Paris en 2026
    
