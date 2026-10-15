@@ -5,7 +5,6 @@
 Valorant, édité par Riot Games, mondialement connu pour son succès précédent, League of Legends, a connu un développement compliqué ; celui-ci a débuté en 2014 et le jeu est sorti le 7 avril 2020. Ce jeu, dans la lignée de CS:GO dont il est fortement inspiré, est un tactical shooter dont le but est de faire exploser le spike pour les attaquants et d'empêcher celui-ci d'exploser pour les défenseurs.
 Lors de la première sortie, le jeu ne possédait que 11 personnages et 4 cartes, alors qu'actuellement il y a plus de 29 personnages et 13 cartes.
 | personnage    | cartes | 
-
 | ----------- |  ----------- | 
 |  01 	Brimstone     | Bind 	| 
 |	02 	Viper			|Split 	|
