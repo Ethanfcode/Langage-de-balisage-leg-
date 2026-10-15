@@ -86,9 +86,14 @@ Ce protocole apparait à la suite d'une découverte sans précédente , un unive
 
 Un certain nombre de team E-sport se sont installé sur Valorant depuis qu'il est sorti en 2021
      les teams les plus légendaire:
+     <br>
         1. PaperRex : style de jeu très agressif et ont jouer contre la meta lors de grosse compétition
+        <br>
         2. Sentinels : première team nommé champion du monde lors des Master de Reyjavik en 2021 
+        <br>
         3. Fnatic : seul équipe a avoir réussi à triompher de 2 VCT d'affilé 
+        <br>
         4. LOUD : équipe sorti d'Amérique du Sud qui ont réussi a battre les plus grosse team  
+        <br>
         5. 100Thieves : triomphe à l'Esport World Cup à Paris en 2026
    
