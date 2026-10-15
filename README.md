@@ -96,4 +96,6 @@ Un certain nombre de team E-sport se sont installé sur Valorant depuis qu'il es
         4. LOUD : équipe sorti d'Amérique du Sud qui ont réussi a battre les plus grosse team 
         <br>
         5. 100Thieves : triomphe à l'Esport World Cup à Paris en 2026
-   
+Les teams légandaire les VCT Game Changers sont :
+        1. Cloud9 white : première dynastie des VCT Game Changers
+           
