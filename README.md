@@ -93,7 +93,6 @@ Un certain nombre de team E-sport se sont installé sur Valorant depuis qu'il es
         <br>
         3. Fnatic : seul équipe a avoir réussi à triompher de 2 VCT d'affilé 
         <br>
-        4. LOUD : équipe sorti d'Amérique du Sud qui ont réussi a battre les plus grosse team  
-        <br>
+        4. LOUD : équipe sorti d'Amérique du Sud qui ont réussi a battre les plus grosse team 
         5. 100Thieves : triomphe à l'Esport World Cup à Paris en 2026
    
