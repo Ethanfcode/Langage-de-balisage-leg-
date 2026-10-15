@@ -1,9 +1,5 @@
-- [x] Task 1
-- [ ] Task 2
-- [ ] Task 3
+# Valorant
+![valorant.png](https://github.com/Ethanfcode/Langage-de-balisage-leg-/blob/main/Valorant.png)
 
-
-
-
-Inline-style: 
-![alt text]([https://github.com/ethanfcode/markdown-here/raw/master/src/common/images/icon48.png)"Logo Title Text 1")
+Valorant est un fps stratégique multijoueur   développer par le studio de creation Riot . Ce jeu s'inspire de Cs go un autre fps ,
+## L' histoire du jeu 
