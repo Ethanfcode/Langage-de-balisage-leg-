@@ -35,6 +35,7 @@ Lors de la première sortie, le jeu ne possédait que 11 personnages et 4 cartes
 |27 	Waylay|| 
 |28 	Veto||
 |29 	Miks| |
+
 Le projet avait été annoncé sous le nom de « Projet A » en octobre 2019. Et comme tous les jeux principaux de Riot Games, celui-ci possède plusieurs modes de jeu, mais les deux plus importants sont l'unranked et la ranked. 
 Les rangs possibles sont d'ailleurs, dans l'ordre croissant : 
 * fer 
