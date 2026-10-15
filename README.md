@@ -64,7 +64,7 @@ Ces individus sont classés selon leurs aptitudes
 Ce protocole apparait à la suite d'une découverte sans précédente , un univers parallèle apparait a la suite d'un sabotage d'une experience scientifique. Cet univers **Omega** et en tout point similaire à celui de l'univers **Alpha** il possède un lui aussi des individue ayant des super-pouvoir  qu'ils les appelent "la legion Valorant" mais seulement l'univers **omega**  est plus avancés au niveau de sa technologie en utilisant massivement la radianite comme source d'énergie ce qui cause son manque, donc ils ont  trouvé un moyen d 'extraire de la radianite via une bombe appelé *spike* ,ils se rendent donc  sur la Terre Alpha pour planter le spike et ainsi récolter la radianite (c'est du raket clairement), c'est au protocol Valorant de pouvoir empêcher la legion valorant de pier leur radianite   
 ## Esport 
 
- Valorant est également un jeu compétitif avec une scène E-sport dévellopée depuis la sortie du jeu.
+ Valorant est également un jeu compétitif avec une scène [E-sport](https://valorantesports.com/fr-FR/) dévellopée depuis la sortie du jeu.
     La scène est séparée en 4 région distincte : America, EMEA, Pacific et China. 
     En 2027, des changement majeur sont apporté au circuit professionel:
     
